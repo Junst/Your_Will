@@ -1,0 +1,7 @@
+# ignoring file 
+.idea
+*.gradle
+*.imi
+
+# Avoid ignoring file 
+!gradle-wrapper.jar
